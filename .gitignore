@@ -1,0 +1,14 @@
+node_modules
+
+dist/
+
+.env
+.env.local
+
+.idea
+
+*.log
+
+.DS_Store
+Thumbs.db
+
